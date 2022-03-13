@@ -30,7 +30,7 @@ Todos
 Install basic tools like cmake and yay
 Install xorg xterm nvidia nvidia-settings
 Install i3wm (or fork) and pipewire (plus extras)
-Install tools for desktop
+--Install tools for desktop--
 Network manager applet and pasystray (network manager can be ignored, and pasystray can be replaced with a polybar extension)
 Polybar or i3blocks
 Rofi or j4-dmenu-desktop
@@ -42,13 +42,14 @@ Lxappearance
 Papirus-icon-theme
 Adwaita and arc themes
 Fonts (cozette dejavu ubuntu noto liberation msfonts gnu)
+----
 Enable high refresh rate
 Enable multilib and update
 Install playerctl for audio control
 Install urxvt
 Install pcmanfm and gvfs and other recommended packages
 Mount other disks via /etc/fstab and enable privileges
-Desktop apps
+--Desktop apps--
 Steam 
 Audacity 
 Vlc
@@ -61,4 +62,5 @@ Firefox
 Torbrowser
 Transmission gtk
 Openrgb
+----
 *Slowly* Import dots and begin the madness
