@@ -30,6 +30,7 @@ Todos
 Install basic tools like cmake and yay
 Install xorg xterm nvidia nvidia-settings
 Install i3wm (or fork) and pipewire (plus extras)
+Configure GRUB to your liking and install lightdm
 --Install tools for desktop--
 Network manager applet and pasystray (network manager can be ignored, and pasystray can be replaced with a polybar extension)
 Polybar or i3blocks
