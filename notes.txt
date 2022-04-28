@@ -1,6 +1,6 @@
 #    the arch finale. UEFI. jesus christ.
-#    the order in which these are executed is important. Follow the wiki, as this one does.
-#    sdx is a short-name used here to reference the disk in which the OS is housed. use lsblk to see which disk to format.
+#    the order in which these are executed is important. This guide directly mirrors the wiki, and is merely a truncated version containing only the commands. Follow the wiki if you don't know what each of these does.
+#    sdx is a stand-in used here to reference the disk on which the OS is to be installed. use lsblk to see which disk to format.
 #
 # timedatectl set-ntp 1
 # cfdisk /dev/sdx... 300M with type EFI system and the rest with type Linux filesystem. sdx1 is boot and sdx2 is root
